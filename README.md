@@ -1,4 +1,4 @@
-# Data Filtering
+# Interactive Data Display
 
 ## Assigned
 
